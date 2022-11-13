@@ -1,5 +1,5 @@
 <template>
-    <h1 >   calculator</h1>
+    <h1 >   Calculator</h1>
     <div class="p-3" style="max-width:400px; margin:50px auto ;background :#dbf0f9">
     <div class="w-full rounded m-1 p-3 text-right text-white bg-vue-dark">
       {{calcultorValue || 0}}
